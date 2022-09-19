@@ -8,6 +8,7 @@ const ContentContainer = styled(Content)`
   height: 100vh-65px;
   overflow-y: scroll;
   background: #ffff;
+  padding: 20px;
   &::-webkit-scrollbar {
     width: 10px;
     background: #eeeded;
