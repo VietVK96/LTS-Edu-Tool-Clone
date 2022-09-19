@@ -6,23 +6,21 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## setup
 
-clone code to your computer
+### clone code to your computer
 
-### `git clone https://github.com/VietVK96/LTS-Edu-Tool-Clone.git`
+`git clone https://github.com/VietVK96/LTS-Edu-Tool-Clone.git`
 
-Affter pull code in git, run:
+### install library with yarn:
 
-### `yarn`
+ `yarn`
 
-### `yarn start`
+`yarn start`
 
-if you don't have yarn, run
+### install library with npm:
 
-### `npm i yarn`
+ `npm i`
 
-or with global
-
-### `npm i -g yarn`
+`npm start`
 
 ## document:
 
@@ -35,5 +33,5 @@ or with global
 [Ant icon](https://ant.design/components/icon/).
 
 ### style
-[styled-component](https://styled-components.com/docs/basics#getting-started).
 
+[styled-component](https://styled-components.com/docs/basics#getting-started).
